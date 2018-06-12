@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TBTenderInfo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="PrjNum" type="xs:string" minOccurs="0" />
+                <xs:element name="TenderNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjName" type="xs:string" minOccurs="0" />
+                <xs:element name="TenderClassNum" type="xs:string" minOccurs="0" />
+                <xs:element name="TenderTypeNum" type="xs:string" minOccurs="0" />
+                <xs:element name="TenderResultDate" type="xs:string" minOccurs="0" />
+                <xs:element name="TenderMoney" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjSize" type="xs:string" minOccurs="0" />
+                <xs:element name="Area" type="xs:string" minOccurs="0" />
+                <xs:element name="AgencyCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="AgencyCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="TenderCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="TenderCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="TanderProjectManager" type="xs:string" minOccurs="0" />
+                <xs:element name="TanderProjectManagerIDCard" type="xs:string" minOccurs="0" />
+                <xs:element name="IDCardTypeNum" type="xs:string" minOccurs="0" />
+                <xs:element name="CreateDate" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TBTenderInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <TenderNum>2201821512140104-BD-001</TenderNum>
+    <PrjName>吉林省酒精工业集团长春吉粮天裕生物工程有限公司粮食仓储设施建设项目一标段仓储工程</PrjName>
+    <TenderClassNum>003</TenderClassNum>
+    <TenderTypeNum>001</TenderTypeNum>
+    <TenderResultDate>2015/9/24 0:00:00</TenderResultDate>
+    <TenderMoney>507.3160</TenderMoney>
+    <PrjSize>1、新建保温钢板平房仓一栋，建筑面积3554.23㎡，仓容1.6万吨玉米
+2、配套动力外网及消防设施</PrjSize>
+    <Area>3554.23</Area>
+    <AgencyCorpName>吉林融创建设工程咨询有限公司</AgencyCorpName>
+    <AgencyCorpCode>74932134-0</AgencyCorpCode>
+    <TenderCorpName>吉林省宇信建筑工程有限公司</TenderCorpName>
+    <TenderCorpCode>12395985-2</TenderCorpCode>
+    <TanderProjectManager>梁洪武</TanderProjectManager>
+    <TanderProjectManagerIDCard />
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <CreateDate>2015/12/23 0:00:00</CreateDate>
+  </TBTenderInfo>
+  <TBTenderInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <TenderNum>2201821512140104-BD-002</TenderNum>
+    <PrjName>吉林省酒精工业集团长春吉粮天裕生物工程有限公司粮食仓储设施建设项目二标段厂区道路工程</PrjName>
+    <TenderClassNum>003</TenderClassNum>
+    <TenderTypeNum>001</TenderTypeNum>
+    <TenderResultDate>2015/9/24 0:00:00</TenderResultDate>
+    <TenderMoney>142.9310</TenderMoney>
+    <PrjSize>1.硬化道路6500㎡</PrjSize>
+    <Area>6500.00</Area>
+    <AgencyCorpName>吉林融创建设工程咨询有限公司</AgencyCorpName>
+    <AgencyCorpCode>74932134-0</AgencyCorpCode>
+    <TenderCorpName>吉林省宇信建筑工程有限公司</TenderCorpName>
+    <TenderCorpCode>12395985-2</TenderCorpCode>
+    <TanderProjectManager>郭宏廷</TanderProjectManager>
+    <TanderProjectManagerIDCard />
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <CreateDate>2015/12/23 0:00:00</CreateDate>
+  </TBTenderInfo>
+  <TBTenderInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <TenderNum>2201821512140104-BE-001</TenderNum>
+    <PrjName>长春吉粮天裕生物工程有限公司</PrjName>
+    <TenderClassNum>004</TenderClassNum>
+    <TenderTypeNum />
+    <TenderResultDate />
+    <TenderMoney />
+    <PrjSize />
+    <Area />
+    <AgencyCorpName />
+    <AgencyCorpCode />
+    <TenderCorpName>吉林省轻工业设计研究院</TenderCorpName>
+    <TenderCorpCode>12402640-5</TenderCorpCode>
+    <TanderProjectManager />
+    <TanderProjectManagerIDCard />
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <CreateDate>1900/1/1 0:00:00</CreateDate>
+  </TBTenderInfo>
+  <TBTenderInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <TenderNum>2201821512140104-BB-001</TenderNum>
+    <PrjName>长春吉粮天裕生物工程有限公司</PrjName>
+    <TenderClassNum>001</TenderClassNum>
+    <TenderTypeNum />
+    <TenderResultDate />
+    <TenderMoney />
+    <PrjSize />
+    <Area />
+    <AgencyCorpName />
+    <AgencyCorpCode />
+    <TenderCorpName>地矿长春地质工程勘察院</TenderCorpName>
+    <TenderCorpCode>12392494-0</TenderCorpCode>
+    <TanderProjectManager />
+    <TanderProjectManagerIDCard />
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <CreateDate>1900/1/1 0:00:00</CreateDate>
+  </TBTenderInfo>
+  <TBTenderInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <TenderNum>2201821512140104-BA-001</TenderNum>
+    <PrjName>长春吉粮天裕生物工程有限公司</PrjName>
+    <TenderClassNum>002</TenderClassNum>
+    <TenderTypeNum />
+    <TenderResultDate />
+    <TenderMoney />
+    <PrjSize />
+    <Area />
+    <AgencyCorpName />
+    <AgencyCorpCode />
+    <TenderCorpName>吉林省建研建筑设计有限公司</TenderCorpName>
+    <TenderCorpCode>78590533-5</TenderCorpCode>
+    <TanderProjectManager />
+    <TanderProjectManagerIDCard />
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <CreateDate>1900/1/1 0:00:00</CreateDate>
+  </TBTenderInfo>
+</NewDataSet>

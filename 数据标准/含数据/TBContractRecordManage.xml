@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TBContractRecordManage">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="PrjNum" type="xs:string" minOccurs="0" />
+                <xs:element name="RecordNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjName" type="xs:string" minOccurs="0" />
+                <xs:element name="ContractNum" type="xs:string" minOccurs="0" />
+                <xs:element name="ContractTypeNum" type="xs:string" minOccurs="0" />
+                <xs:element name="ContractMoney" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjSize" type="xs:string" minOccurs="0" />
+                <xs:element name="ContractDate" type="xs:string" minOccurs="0" />
+                <xs:element name="PropietorCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="PropietorCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="ContractorCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="ContractorCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="UnionCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="UnionCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CreateDate" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TBContractRecordManage>
+    <PrjNum>2201821512140104</PrjNum>
+    <RecordNum>2201821512140104-HZ-001</RecordNum>
+    <PrjName>吉林省酒精工业集团长春吉粮天裕生物工程有限公司粮食仓储设施建设项目仓储工程</PrjName>
+    <ContractNum />
+    <ContractTypeNum>301</ContractTypeNum>
+    <ContractMoney>507.3160</ContractMoney>
+    <PrjSize>3554.23平方米</PrjSize>
+    <ContractDate>2015/9/25 0:00:00</ContractDate>
+    <PropietorCorpName>长春吉粮天裕生物工程有限公司</PropietorCorpName>
+    <PropietorCorpCode>77658620-5</PropietorCorpCode>
+    <ContractorCorpName>吉林省宇信建筑工程有限公司</ContractorCorpName>
+    <ContractorCorpCode>12395985-2</ContractorCorpCode>
+    <UnionCorpName />
+    <UnionCorpCode />
+    <CreateDate>2006/1/1 0:00:00</CreateDate>
+  </TBContractRecordManage>
+</NewDataSet>

@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TBProjectInfo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="PrjName" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjTypeNum" type="xs:string" minOccurs="0" />
+                <xs:element name="BuildCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="BuildCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="ProvinceNum" type="xs:string" minOccurs="0" />
+                <xs:element name="CityNum" type="xs:string" minOccurs="0" />
+                <xs:element name="CountyNum" type="xs:string" minOccurs="0" />
+                <xs:element name="Address" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjApprovalNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjApprovalLevelNum" type="xs:string" minOccurs="0" />
+                <xs:element name="AllInvest" type="xs:string" minOccurs="0" />
+                <xs:element name="AllArea" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjSize" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjPropertyNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjFunctionNum" type="xs:string" minOccurs="0" />
+                <xs:element name="CreateDate" type="xs:string" minOccurs="0" />
+                <xs:element name="CCID" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TBProjectInfo>
+    <PrjName>吉林省酒精工业集团长春吉粮天裕生物工程有限公司粮食仓储设施建设项目仓储工程</PrjName>
+    <PrjTypeNum>01</PrjTypeNum>
+    <BuildCorpName>长春吉粮天裕生物工程有限公司</BuildCorpName>
+    <BuildCorpCode>776586205</BuildCorpCode>
+    <ProvinceNum>220000</ProvinceNum>
+    <CityNum>220100</CityNum>
+    <CountyNum>220182</CountyNum>
+    <Address>吉林省长春市五棵树经济开发区</Address>
+    <PrjApprovalNum>榆发改审字[2014]239号</PrjApprovalNum>
+    <PrjApprovalLevelNum>004</PrjApprovalLevelNum>
+    <AllInvest>750.0000</AllInvest>
+    <AllArea>3554.23</AllArea>
+    <PrjSize>1、新建保温钢板平房仓一栋，建筑面积3554.23㎡，仓容1.6万吨玉米
+2、配套硬化地面1000㎡，硬化道路1000㎡
+3、配套动力外网及消防设施</PrjSize>
+    <PrjPropertyNum>001</PrjPropertyNum>
+    <PrjFunctionNum>500</PrjFunctionNum>
+    <CreateDate>2015/12/14 0:00:00</CreateDate>
+    <CCID>0059</CCID>
+  </TBProjectInfo>
+</NewDataSet>

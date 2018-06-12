@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TBProjectCensorInfo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="PrjNum" type="xs:string" minOccurs="0" />
+                <xs:element name="CensorNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjName" type="xs:string" minOccurs="0" />
+                <xs:element name="CensorCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="CensorCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CensorEDate" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjSize" type="xs:string" minOccurs="0" />
+                <xs:element name="EconCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="EconCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="EconCorpName2" type="xs:string" minOccurs="0" />
+                <xs:element name="EconCorpCode2" type="xs:string" minOccurs="0" />
+                <xs:element name="EconCorpName3" type="xs:string" minOccurs="0" />
+                <xs:element name="EconCorpCode3" type="xs:string" minOccurs="0" />
+                <xs:element name="DesignCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="DesignCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="DesignCorpName2" type="xs:string" minOccurs="0" />
+                <xs:element name="DesignCorpCode2" type="xs:string" minOccurs="0" />
+                <xs:element name="DesignCorpName3" type="xs:string" minOccurs="0" />
+                <xs:element name="DesignCorpCode3" type="xs:string" minOccurs="0" />
+                <xs:element name="CreateDate" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TBProjectCensorInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <CensorNum>2201821512140104-TX-002</CensorNum>
+    <PrjName>吉林省酒精工业集团长春吉粮天裕生物工程有限公司粮食仓储设施建设项目仓储工程</PrjName>
+    <CensorCorpName>吉林省同德市政工程设计审查有限公司</CensorCorpName>
+    <CensorCorpCode>76899787-2</CensorCorpCode>
+    <CensorEDate>2015/8/25 0:00:00</CensorEDate>
+    <PrjSize>1、新建保温钢板平房仓一栋，建筑面积3554.23㎡，仓容1.6万吨玉米
+2、配套硬化地面1000㎡，硬化道路1000㎡
+3、配套动力外网及消防设施</PrjSize>
+    <EconCorpName>地矿长春地质工程勘察院</EconCorpName>
+    <EconCorpCode>12392494-0</EconCorpCode>
+    <EconCorpName2 />
+    <EconCorpCode2 />
+    <EconCorpName3 />
+    <EconCorpCode3 />
+    <DesignCorpName>吉林省建研建筑设计有限公司</DesignCorpName>
+    <DesignCorpCode>78590533-5</DesignCorpCode>
+    <DesignCorpName2>undefined</DesignCorpName2>
+    <DesignCorpCode2>undefined</DesignCorpCode2>
+    <DesignCorpName3>undefined</DesignCorpName3>
+    <DesignCorpCode3>undefined</DesignCorpCode3>
+    <CreateDate>2015/12/18 0:00:00</CreateDate>
+  </TBProjectCensorInfo>
+  <TBProjectCensorInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <CensorNum>2201821512140104-TX-001</CensorNum>
+    <PrjName>吉林省酒精工业集团长春吉粮天裕生物工程有限公司粮食仓储设施建设项目仓储工程</PrjName>
+    <CensorCorpName>吉林省同德市政工程设计审查有限公司</CensorCorpName>
+    <CensorCorpCode>76899787-2</CensorCorpCode>
+    <CensorEDate>2015/8/25 0:00:00</CensorEDate>
+    <PrjSize>1、新建保温钢板平房仓一栋，建筑面积3554.23㎡，仓容1.6万吨玉米
+2、配套硬化地面1000㎡，硬化道路1000㎡
+3、配套动力外网及消防设施</PrjSize>
+    <EconCorpName>地矿长春地质工程勘察院</EconCorpName>
+    <EconCorpCode>12392494-0</EconCorpCode>
+    <EconCorpName2 />
+    <EconCorpCode2 />
+    <EconCorpName3 />
+    <EconCorpCode3 />
+    <DesignCorpName>吉林省建研建筑设计有限公司</DesignCorpName>
+    <DesignCorpCode>78590533-5</DesignCorpCode>
+    <DesignCorpName2>undefined</DesignCorpName2>
+    <DesignCorpCode2>undefined</DesignCorpCode2>
+    <DesignCorpName3>undefined</DesignCorpName3>
+    <DesignCorpCode3>undefined</DesignCorpCode3>
+    <CreateDate>2015/12/18 0:00:00</CreateDate>
+  </TBProjectCensorInfo>
+</NewDataSet>

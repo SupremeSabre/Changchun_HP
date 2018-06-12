@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TBBuilderLicenceManage">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="PrjName" type="xs:string" minOccurs="0" />
+                <xs:element name="BuilderLicenceNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjNum" type="xs:string" minOccurs="0" />
+                <xs:element name="BuldPlanNum" type="xs:string" minOccurs="0" />
+                <xs:element name="ProjectPlanNum" type="xs:string" minOccurs="0" />
+                <xs:element name="CensorNum" type="xs:string" minOccurs="0" />
+                <xs:element name="ContractMoney" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Area" type="xs:decimal" minOccurs="0" />
+                <xs:element name="PrjSize" type="xs:string" minOccurs="0" />
+                <xs:element name="IssueCertDate" type="xs:string" minOccurs="0" />
+                <xs:element name="EconCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="EconCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="DesignCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="DesignCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="ConsCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="ConsCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="SafetyCerID" type="xs:string" minOccurs="0" />
+                <xs:element name="SuperCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="SuperCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CONSCORPLEADER" type="xs:string" minOccurs="0" />
+                <xs:element name="CONSCORPLEADERCARDTYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="CONSCORPLEADERCARDNUM" type="xs:string" minOccurs="0" />
+                <xs:element name="SUPERCORPLEADER" type="xs:string" minOccurs="0" />
+                <xs:element name="SUPERCORPLEADERCARDTYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="SUPERCORPLEADERCARDNUM" type="xs:string" minOccurs="0" />
+                <xs:element name="CreateDate" type="xs:dateTime" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

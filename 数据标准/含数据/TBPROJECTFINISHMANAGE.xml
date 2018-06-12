@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TBProjectFinishManage">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="PrjNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjFinishNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjName" type="xs:string" minOccurs="0" />
+                <xs:element name="QCCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="QCCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="FactCost" type="xs:string" minOccurs="0" />
+                <xs:element name="FactArea" type="xs:string" minOccurs="0" />
+                <xs:element name="FactSize" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjStructureTypeNum" type="xs:string" minOccurs="0" />
+                <xs:element name="BDate" type="xs:string" minOccurs="0" />
+                <xs:element name="EDate" type="xs:string" minOccurs="0" />
+                <xs:element name="Mark" type="xs:string" minOccurs="0" />
+                <xs:element name="CreateDate" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TBProjectFinishManage>
+    <PrjNum>2201821512140104</PrjNum>
+    <PrjFinishNum>2201821512140104-JX-001</PrjFinishNum>
+    <PrjName>吉林省酒精工业集团长春吉粮天裕生物工程有限公司粮食仓储设施建设项目仓储工程</PrjName>
+    <QCCorpName>榆树市建设工程质量检测有限责任公司</QCCorpName>
+    <QCCorpCode>79441438-6</QCCorpCode>
+    <FactCost>650.0000</FactCost>
+    <FactArea>3554.23</FactArea>
+    <FactSize>1、新建保温钢板平房仓一栋，建筑面积3554.23㎡，仓容1.6万吨玉米
+2、配套硬化地面1000㎡，硬化道路1000㎡
+3、配套动力外网及消防设施</FactSize>
+    <PrjStructureTypeNum>014</PrjStructureTypeNum>
+    <BDate>2015/10/3 0:00:00</BDate>
+    <EDate>2015/12/20 0:00:00</EDate>
+    <Mark />
+    <CreateDate>2001/1/1 0:00:00</CreateDate>
+  </TBProjectFinishManage>
+</NewDataSet>

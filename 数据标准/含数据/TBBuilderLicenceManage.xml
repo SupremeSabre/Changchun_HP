@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TBBuilderLicenceManage">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="PrjNum" type="xs:string" minOccurs="0" />
+                <xs:element name="BuilderLicenceNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjName" type="xs:string" minOccurs="0" />
+                <xs:element name="BuldPlanNum" type="xs:string" minOccurs="0" />
+                <xs:element name="ProjectPlanNum" type="xs:string" minOccurs="0" />
+                <xs:element name="CensorNum" type="xs:string" minOccurs="0" />
+                <xs:element name="ContractMoney" type="xs:string" minOccurs="0" />
+                <xs:element name="Area" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjSize" type="xs:string" minOccurs="0" />
+                <xs:element name="IssueCertDate" type="xs:string" minOccurs="0" />
+                <xs:element name="EconCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="EconCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="DesignCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="DesignCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="ConsCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="ConsCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="SafetyCerID" type="xs:string" minOccurs="0" />
+                <xs:element name="SuperCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="SuperCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="CONSCORPLEADER" type="xs:string" minOccurs="0" />
+                <xs:element name="CONSCORPLEADERCARDTYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="CONSCORPLEADERCARDNUM" type="xs:string" minOccurs="0" />
+                <xs:element name="SUPERCORPLEADER" type="xs:string" minOccurs="0" />
+                <xs:element name="SUPERCORPLEADERCARDTYPE" type="xs:string" minOccurs="0" />
+                <xs:element name="SUPERCORPLEADERCARDNUM" type="xs:string" minOccurs="0" />
+                <xs:element name="CreateDate" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TBBuilderLicenceManage>
+    <PrjNum>2201821512140104</PrjNum>
+    <BuilderLicenceNum>220182201605100101</BuilderLicenceNum>
+    <PrjName>吉林省酒精工业集团长春吉粮天裕生物工程有限公司粮食仓储设施建设项目</PrjName>
+    <BuldPlanNum>榆地字第  22012120150615001  号</BuldPlanNum>
+    <ProjectPlanNum>榆建字第   22012120150618003  号</ProjectPlanNum>
+    <CensorNum>2201821512140104-TX-001</CensorNum>
+    <ContractMoney>507.3160</ContractMoney>
+    <Area>3554.23</Area>
+    <PrjSize>1、建设1.5万吨标准化收纳仓及附属设施
+2、配套硬化地面1000㎡，硬化道路1000㎡
+3、配套动力外网及消防设施</PrjSize>
+    <IssueCertDate />
+    <EconCorpName>地矿长春地质工程勘察院</EconCorpName>
+    <EconCorpCode>12392494-0</EconCorpCode>
+    <DesignCorpName>吉林省建研建筑设计有限公司</DesignCorpName>
+    <DesignCorpCode>78590533-5</DesignCorpCode>
+    <ConsCorpName>吉林省宇信建筑工程有限公司</ConsCorpName>
+    <ConsCorpCode>12395985-2</ConsCorpCode>
+    <SafetyCerID />
+    <SuperCorpName>吉林省轻工业设计研究院</SuperCorpName>
+    <SuperCorpCode>12402640-5</SuperCorpCode>
+    <CONSCORPLEADER>梁洪武</CONSCORPLEADER>
+    <CONSCORPLEADERCARDTYPE />
+    <CONSCORPLEADERCARDNUM />
+    <SUPERCORPLEADER>陈家华</SUPERCORPLEADER>
+    <SUPERCORPLEADERCARDTYPE />
+    <SUPERCORPLEADERCARDNUM />
+    <CreateDate>2016/5/10 0:00:00</CreateDate>
+  </TBBuilderLicenceManage>
+</NewDataSet>

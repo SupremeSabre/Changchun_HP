@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TBProjectDesignEconUserInfo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="PrjNum" type="xs:string" minOccurs="0" />
+                <xs:element name="CorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="CorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="UserName" type="xs:string" minOccurs="0" />
+                <xs:element name="IDCardTypeNum" type="xs:string" minOccurs="0" />
+                <xs:element name="IDCard" type="xs:string" minOccurs="0" />
+                <xs:element name="SpecialtyTypNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjDuty" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TBProjectDesignEconUserInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <CorpName>吉林省同德市政工程设计审查有限公司</CorpName>
+    <CorpCode>76899787-2</CorpCode>
+    <UserName>赵世才</UserName>
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <IDCard>220104194707023813</IDCard>
+    <SpecialtyTypNum />
+    <PrjDuty>004</PrjDuty>
+  </TBProjectDesignEconUserInfo>
+  <TBProjectDesignEconUserInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <CorpName>地矿长春地质工程勘察院</CorpName>
+    <CorpCode>12392494-0</CorpCode>
+    <UserName>张洪普</UserName>
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <IDCard>220104196303252651</IDCard>
+    <SpecialtyTypNum />
+    <PrjDuty>001</PrjDuty>
+  </TBProjectDesignEconUserInfo>
+  <TBProjectDesignEconUserInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <CorpName>吉林省建研建筑设计有限公司</CorpName>
+    <CorpCode>78590533-5</CorpCode>
+    <UserName>裴伟杰</UserName>
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <IDCard>220103196307281015</IDCard>
+    <SpecialtyTypNum />
+    <PrjDuty>001</PrjDuty>
+  </TBProjectDesignEconUserInfo>
+  <TBProjectDesignEconUserInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <CorpName>地矿长春地质工程勘察院</CorpName>
+    <CorpCode>12392494-0</CorpCode>
+    <UserName>张洪普</UserName>
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <IDCard>220104196303252651</IDCard>
+    <SpecialtyTypNum />
+    <PrjDuty>001</PrjDuty>
+  </TBProjectDesignEconUserInfo>
+  <TBProjectDesignEconUserInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <CorpName>吉林省建研建筑设计有限公司</CorpName>
+    <CorpCode>78590533-5</CorpCode>
+    <UserName>裴伟杰</UserName>
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <IDCard>220103196307281015</IDCard>
+    <SpecialtyTypNum />
+    <PrjDuty>001</PrjDuty>
+  </TBProjectDesignEconUserInfo>
+  <TBProjectDesignEconUserInfo>
+    <PrjNum>2201821512140104</PrjNum>
+    <CorpName>吉林省同德市政工程设计审查有限公司</CorpName>
+    <CorpCode>76899787-2</CorpCode>
+    <UserName>赵世才</UserName>
+    <IDCardTypeNum>1</IDCardTypeNum>
+    <IDCard>220104194707023813</IDCard>
+    <SpecialtyTypNum />
+    <PrjDuty>004</PrjDuty>
+  </TBProjectDesignEconUserInfo>
+</NewDataSet>

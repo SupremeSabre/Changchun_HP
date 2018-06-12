@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TBPROJECTFINISHMANAGE">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="PrjName" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjFinishNum" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjNum" type="xs:string" minOccurs="0" />
+                <xs:element name="QCCorpName" type="xs:string" minOccurs="0" />
+                <xs:element name="QCCorpCode" type="xs:string" minOccurs="0" />
+                <xs:element name="FactCost" type="xs:decimal" minOccurs="0" />
+                <xs:element name="FactArea" type="xs:decimal" minOccurs="0" />
+                <xs:element name="FactSize" type="xs:string" minOccurs="0" />
+                <xs:element name="PrjStructureTypeNum" type="xs:string" minOccurs="0" />
+                <xs:element name="BDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="EDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Mark" type="xs:string" minOccurs="0" />
+                <xs:element name="CreateDate" type="xs:dateTime" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>
